@@ -1,0 +1,14 @@
+{
+  "name": "utility-bulletin-evidence",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "街区服务摘录",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}
